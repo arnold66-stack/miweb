@@ -1,3 +1,0 @@
-hello arnold 1
-hello arnold 2
-hello ar 3
